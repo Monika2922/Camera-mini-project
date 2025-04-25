@@ -1,0 +1,19 @@
+#mainheading{
+    color:red;
+}
+
+p{
+    background-color:#ffff00;
+}
+
+div p{
+    background-color:blue;
+}
+
+.box{
+    height:100px;
+    width:100px;
+    padding:5px;
+    border: 5px dashed red;
+    margin:5px
+}
